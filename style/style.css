@@ -1,0 +1,38 @@
+body{
+    font-family: Roboto,sans-serif;
+    font-weight: 300;
+    color: #00194A;
+    background-color: #F6F7F9;
+}
+body p,a{
+    /* color: #00194A; */
+    opacity: 0.8;
+}
+header{
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    font-size:300%;
+}
+h2{
+    font-size: 250%;
+}
+p{font-weight: 300;}
+div{
+    margin-bottom: 5%;
+}
+footer{
+    background-color: #00194A;
+    border-radius: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+footer p{
+    margin-bottom: 5%;
+}
